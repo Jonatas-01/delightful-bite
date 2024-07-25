@@ -29,6 +29,18 @@ nav{
  }
 
  header > p{
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+
+ .recipe-title{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 55vw;
+    align-self: center;
+ }
+
+ .recipe-title > h1{
+    margin: 14px;
  }
