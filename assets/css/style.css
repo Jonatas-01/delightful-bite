@@ -1,77 +1,86 @@
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap');
 
+/* Body */
 body{
     font-family: "Exo 2", sans-serif;
     display: flex;
     flex-direction: column;
     margin: 0px;
-    background-color: whitesmoke;
+    background-color: rgba(245, 245, 245, 0.945);
 }
 
+/* Fonts only for h1 and h3 */
 h1, h3{
     font-family: "Roboto Slab", serif;
 }
 
+/* nav section styles */
 nav{
     display: flex;
     justify-content: space-around;
      
 }
- nav > a{
+
+nav > a{
     text-decoration: none;
     padding: 8px;
     font-size: 22px;
     color: black;
- }
+}
 
- header > img{
+/* img taking 100% of the screen hight auto */
+header > img{
     width: 100%;
- }
+}
 
- header > p{
-    padding-left: 20px;
-    padding-right: 20px;
- }
+header > p{
+   margin-top: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+}
 
- header > h3{
+header > h3{
    padding-left: 20px;
    padding-right: 20px;
    margin-bottom: 5px;
    font-weight: 800;
- }
+}
 
- .recipe-title{
+/* Title(recipes) marking the beggining of the main subject in the page */
+.recipe-title{
     text-align: center;
     border: 2px solid black;
     border-radius: 20px;
     width: 55vw;
     align-self: center;
-    background-color: rgba(31, 202, 145, 0.548);
- }
+    background-color: rgba(255, 167, 34, 0.753);
+}
 
- .recipe-title > h1{
-    margin: 14px;
- }
+.recipe-title > h1{
+    margin: 12px;
+}
 
- hr{
+hr{
    margin-right: 15px;
    margin-left: 15px;
- }
+}
 
- .main-recipes-div{
+/* Recipes styles */
+.main-recipes-div{
    display: flex;
    flex-direction: column;
    margin-left: 15px;
    margin-right: 15px;
- }
+}
 
- .main-recipes-div > img{
+.main-recipes-div > img{
    height: 380px;
    margin-top: 15px;
- }
+}
 
- .main-recipes-div > a{
+.main-recipes-div > a{
    align-self: center;
    text-decoration: none;
    padding: 10px;
@@ -79,11 +88,45 @@ nav{
    border-radius: 8px;
    font-weight: 700;
    color: rgb(66, 66, 66)
- }
+}
 
- .main-recipes-div > a:hover{
+.main-recipes-div > a:hover{
    transform: translate(0px, -3px);
    transition: transform .4s;
- }
+}
 
+/* Footer/Contact */
+footer{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   background-color: rgba(32, 114, 87, 0.548);
+   padding-bottom: 10px;
+}
 
+footer > h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 55vw;
+    align-self: center;
+    background-color: rgba(255, 167, 34, 0.753);
+    padding: 12px;
+}
+
+.email-icon{
+   font-size: 28px;
+}
+
+footer > p{
+   margin-top: 2px;
+   font-size: large;
+}
+
+/* icons */
+.social-icons{
+   margin-left: 35px;
+   margin-right: 35px;
+   /* text-decoration: dashed; */
+   color: black  
+}
