@@ -33,6 +33,7 @@ nav > a{
 /* img taking 100% of the screen hight auto */
 header > img{
     width: 100%;
+    
 }
 
 header > p{
@@ -135,4 +136,35 @@ footer > span{
    margin-right: 35px;
    text-decoration: dashed;
    color: black  
+}
+
+/* Tablet Screen */
+@media screen and (min-width: 768px){
+   .main-recipes-div > p{
+      padding-left: 15px;
+      padding-right: 15px;
+   }
+}
+
+/* Laptop Screen */
+@media screen and (min-width: 992px){
+   .main-recipes-div{
+      flex-direction: row;
+   }
+
+   #recipes{
+      width: 35vw;
+   }
+
+   footer h1{
+      width: 35vw;
+   }
+}
+
+/* Desktop Screen */
+@media screen and (min-width: 1200px){
+   header > img{
+      width: 100%;
+      max-height: 700px;
+   }
 }
