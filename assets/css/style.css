@@ -148,22 +148,19 @@ footer > span{
 
 /* Laptop Screen */
 @media screen and (min-width: 992px){
-   .main-recipes-div{
-      flex-direction: row;
+   .main-recipes-div p{
+      align-self: center;
+      width: 50vw;
+      text-align: center;
    }
 
-   #recipes{
-      width: 35vw;
-   }
-
-   footer h1{
-      width: 35vw;
+   .social-icons{
+      margin-left: 45px;
+      margin-right: 45px;
    }
 }
 
 /* Desktop Screen */
 @media screen and (min-width: 1200px){
-   header > img{
-
-   }
+   
 }
