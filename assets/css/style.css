@@ -2,8 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto+Slab:wght@100..900&display=swap');
 
+
 /* Body */
-body{
+body#main-body{
     font-family: "Exo 2", sans-serif;
     display: flex;
     flex-direction: column;
@@ -20,7 +21,7 @@ h1, h3{
 nav{
     display: flex;
     justify-content: space-around;
-     
+    border-bottom: 3px solid black;
 }
 
 nav > a{
@@ -137,6 +138,8 @@ footer > span{
    text-decoration: dashed;
    color: black  
 }
+
+/* Main page media screen */
 
 /* Tablet Screen */
 @media screen and (min-width: 768px){
