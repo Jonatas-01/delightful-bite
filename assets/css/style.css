@@ -154,10 +154,25 @@ footer > span{
 
 /* Laptop Screen */
 @media screen and (min-width: 992px){
+   .recipes-section{
+      display: flex;
+      flex-direction: row;
+   }
+
+   .main-recipes-div{
+      width: 33%;
+   }
+
    .main-recipes-div p{
-      align-self: center;
-      width: 50vw;
       text-align: center;
+   }
+
+   .recipe-title{
+      width: 40%;
+   }
+
+   footer > h1{
+      width: 40%;
    }
 
    .social-icons{
@@ -166,7 +181,7 @@ footer > span{
    }
 }
 
-/* Desktop Screen */
+/* Desktop Screen will be the same as laptop */
 @media screen and (min-width: 1200px){
    
 }
