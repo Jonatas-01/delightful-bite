@@ -5,4 +5,42 @@
 
 body#body-sign{
     font-family: "Exo 2", sans-serif;
+    margin: 0px;
+}
+
+/* Nav style */
+nav.sign-up-nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FFC100;
+    border-bottom: 3px solid black;
+}
+
+nav.sign-up-nav > a{
+    text-decoration: none;
+    padding: 8px;
+    font-size: 22px;
+    color: black;
+}
+
+.div-left{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.div-left > h1{
+    margin-top: 5px;
+    text-align: center;
+}
+
+.div-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.register-box{
+    align-self: center;
+    
 }
