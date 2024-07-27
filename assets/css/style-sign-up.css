@@ -82,7 +82,7 @@ form{
     font-size: 20px;
     margin-bottom: 10px;
 }
-/* font family is bugged, when open the website in mobile the text in button is hidden */
+/* font family is bugged, when open the website in safari in mobile the text in button is hidden */
 button{
     width: 72%;
     padding: 15px;
@@ -90,9 +90,9 @@ button{
     border: none;
     border-radius: 10px;
     font-size: large;
-    /* font-family: "Exo 2", sans-serif; */
-    /* font-weight: 700;
-    letter-spacing: 2px; */
+    font-family: "Exo 2", sans-serif;
+    font-weight: 800;
+    letter-spacing: 2px;
     cursor: pointer;
     box-shadow: 0px 2px 7px  black;
     margin: 12px;
