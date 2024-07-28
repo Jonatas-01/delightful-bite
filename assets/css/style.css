@@ -153,7 +153,7 @@ footer > span{
    }
 }
 
-/* Laptop Screen */
+/* Laptop and Desktop Screen */
 @media screen and (min-width: 992px){
    .recipes-section{
       display: flex;
@@ -181,10 +181,5 @@ footer > span{
       margin-left: 45px;
       margin-right: 45px;
    }
-}
-
-/* Desktop Screen will be the same as laptop */
-@media screen and (min-width: 1200px){
-   
 }
 
