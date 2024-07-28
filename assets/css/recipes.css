@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* body style */
-body#hamburger{
+body#body-recipes{
     margin: 0px;
     font-family: "Exo 2", sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #009914b6;
+    /* background-color: #24d1bac9; */
+    background-color: rgba(62, 207, 159, 0.815);
 }
 
 /* nav bar style */
@@ -38,12 +39,12 @@ body#hamburger{
 }
 
 /* header title */
-.header-hamburger h1{
+.header-recipes h1{
     margin-bottom: 0;
 }
 
 /* header image */
-.header-hamburger > img{
+.header-recipes > img{
     padding: 15px;
 }
 
@@ -96,13 +97,13 @@ table{
     }
 
     /* header display flex */
-    .header-hamburger{
+    .header-recipes{
         display: flex;
         flex-direction: column;
     }
 
     /* image at the center */
-    .header-hamburger > img{
+    .header-recipes > img{
         align-self: center;
         width: 40vw;
     }
