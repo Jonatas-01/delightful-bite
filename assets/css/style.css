@@ -242,11 +242,6 @@ body#body-recipes{
    margin-bottom: 0;
 }
 
-/* header image */
-.header-recipes > img{
-   padding: 15px;
-}
-
 /* Preparation Section */
 .preparation-section{
    background-color: #ffbf00d3;
