@@ -183,3 +183,272 @@ footer > span{
    }
 }
 
+
+
+/* Recipes Page Style */
+
+
+/* body style */
+body#body-recipes{
+   margin: 0px;
+   font-family: "Exo 2", sans-serif;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   /* background-color: rgba(62, 207, 159, 0.815); */
+   /* background-color: rgb(157, 114, 170); */
+}
+
+.background-hamburger{
+   background-color: rgb(114, 170, 128);
+}
+
+.background-pizza{
+   background-color: rgb(157, 114, 170);
+}
+
+.background-cheesecake{
+   background-color: rgb(230, 136, 132);
+}
+/* nav bar style */
+.nav-hamburger{
+   display: flex;
+   justify-content: space-around;
+   border-bottom: 3px solid black;
+   background-color: #FFC100;
+}
+
+.nav-hamburger > a{
+   text-decoration: none;
+   padding: 8px;
+   font-size: 22px;
+   color: black;
+   
+}
+
+/* main block that contains the recipe details */
+.main-div-recipes{
+   width: 84vw;
+   align-self: center;
+   background-color: whitesmoke;
+   border-radius: 25px;
+   padding: 15px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+/* header title */
+.header-recipes h1{
+   margin-bottom: 0;
+}
+
+/* header image */
+.header-recipes > img{
+   padding: 15px;
+}
+
+/* Preparation Section */
+.preparation-section{
+   background-color: #ffbf00d3;
+   padding: 8px;
+   border-radius: 15px;
+   margin: 0px 10px 10px 10px;
+}
+
+/* Preparation section style */
+.preparation-section > h3{
+   padding-left: 8px;
+   margin-bottom: 0;
+   color: rgb(72, 8, 114);
+}
+
+/* Styles for all title and subtitles */
+.textfield-recipes > h3{
+   font-size: xx-large;
+   margin-bottom: 0px;
+}
+
+/* table style */
+td{
+   border-bottom: 1px solid rgb(182, 182, 182);
+   padding: 10px;
+}
+
+.first{
+   width: 50vw;
+}
+
+.second{
+   width: 50vw;
+}
+
+table{
+   padding: 10px;
+   border-collapse: collapse;
+   margin:10px 10px 10px 15px;
+}
+
+/* Laptop and Desktop screen */
+@media screen and (min-width: 769px) {
+   /* main content max 60% */
+   .main-div-recipes{
+       width: 60vw;
+   }
+
+   /* header display flex */
+   .header-recipes{
+       display: flex;
+       flex-direction: column;
+   }
+
+   /* image at the center */
+   .header-recipes > img{
+       align-self: center;
+       width: 40vw;
+   }
+}
+
+
+
+/* Sign Up Style */
+
+body#body-sign{
+   font-family: "Exo 2", sans-serif;
+   margin: 0px;
+   background-color: whitesmoke;
+}
+
+/* Nav style */
+nav.sign-up-nav{
+   display: flex;
+   justify-content: space-around;
+   background-color: #FFC100;
+   border-bottom: 3px solid black;
+}
+
+nav.sign-up-nav > a{
+   text-decoration: none;
+   padding: 8px;
+   font-size: 22px;
+   color: black;
+}
+
+.div-left{
+   padding: 15px;
+   display: flex;
+   flex-direction: column;
+}
+
+.div-left > h1{
+   margin-top: 5px;
+   text-align: center;
+}
+
+.div-right{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.register-box{
+   background-color: rgb(224, 224, 224);
+   width: 80vw;
+   border-radius: 40px;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   margin-bottom: 30px;
+   box-shadow: 0px 5px 30px  black;
+}
+
+form{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+}
+.register-box > h1{
+   color: #ffbf00;
+   margin: 5px;
+}
+
+.textfield{
+   display: flex;
+   flex-direction: column;
+   width: 90%;
+}
+
+.textfield > label{
+   font-size: x-large;
+   margin: 5px;
+}
+
+.textfield > input{
+   padding: 10px;
+   border-radius: 8px;
+   border: none;
+   font-size: 20px;
+   margin-bottom: 10px;
+}
+/* font family is bugged, when open the website in safari in mobile the text in button is hidden */
+button{
+   width: 70%;
+   padding: 14px;
+   background-color: white;
+   border: none;
+   border-radius: 10px;
+   font-size: large;
+   font-family: "Exo 2", sans-serif;
+   font-weight: 800;
+   letter-spacing: 2px;
+   cursor: pointer;
+   box-shadow: 0px 2px 7px  black;
+   margin: 12px;
+}
+
+/* Tablet Screen will be the same as mobile */
+@media screen and (min-width: 768px){
+
+}
+
+/* Laptop Screen */
+@media screen and (min-width: 992px){
+
+   .main-div{
+       display: flex;
+       width: 100vw;
+       height: 100vh;
+   }
+
+   .div-left{
+       width: 50vw;
+       height: 100%;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+
+   .div-left > img{
+       width: 85%;
+   }
+
+   .div-right{
+       width: 50vw;
+       height: 100%;
+       display: flex;
+       
+   }
+
+   .register-box{
+       width: 66%;
+       display: flex;
+   }
+}
+
+/* Desktop Screen */
+@media screen and (min-width: 1200px){
+   
+}
