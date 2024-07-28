@@ -84,8 +84,8 @@ form{
 }
 /* font family is bugged, when open the website in safari in mobile the text in button is hidden */
 button{
-    width: 72%;
-    padding: 15px;
+    width: 70%;
+    padding: 14px;
     background-color: white;
     border: none;
     border-radius: 10px;

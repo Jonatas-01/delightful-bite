@@ -149,6 +149,7 @@ footer > span{
    .main-recipes-div > p{
       padding-left: 15px;
       padding-right: 15px;
+      
    }
 }
 
@@ -161,6 +162,7 @@ footer > span{
 
    .main-recipes-div{
       width: 33%;
+      margin: 15px;
    }
 
    .main-recipes-div p{
