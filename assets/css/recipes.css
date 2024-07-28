@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* body style */
+body#hamburger{
+    margin: 0px;
+    font-family: "Exo 2", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #009914ce;
+}
+
+/* nav bar style */
+.nav-hamburger{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 3px solid black;
+    background-color: #FFC100;
+}
+
+.nav-hamburger > a{
+    text-decoration: none;
+    padding: 8px;
+    font-size: 22px;
+    color: black;
+    
+}
+
+/* main block that contains the recipe details */
+.main-div-recipes{
+    width: 84vw;
+    align-self: center;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* header title */
+.header-hamburger h1{
+    margin-bottom: 0;
+}
+
+/* header image */
+.header-hamburger > img{
+    padding: 15px;
+}
+
+/* Preparation Section */
+.preparation-section{
+    background-color: #ffbf00d3;
+    padding: 8px;
+    border-radius: 15px;
+    margin: 0px 10px 10px 10px;
+}
+
+/* Preparation section style */
+.preparation-section > h3{
+    padding-left: 8px;
+    margin-bottom: 0;
+    color: rgb(72, 8, 114);
+}
+
+/* Styles for all title and subtitles */
+.textfield-recipes > h3{
+    font-size: xx-large;
+    margin-bottom: 0px;
+}
+
+/* table style */
+td{
+    border-bottom: 1px solid rgb(182, 182, 182);
+    padding: 10px;
+}
+
+.first{
+    width: 50vw;
+}
+
+.second{
+    width: 50vw;
+}
+
+table{
+    padding: 10px;
+    border-collapse: collapse;
+    margin:10px 10px 10px 15px;
+}
+
+/* Laptop and Desktop screen */
+@media screen and (min-width: 769px) {
+    /* main content max 60% */
+    .main-div-recipes{
+        width: 60vw;
+    }
+
+    /* header display flex */
+    .header-hamburger{
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* image at the center */
+    .header-hamburger > img{
+        align-self: center;
+        width: 40vw;
+    }
+}
