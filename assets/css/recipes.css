@@ -7,10 +7,21 @@ body#body-recipes{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* background-color: #24d1bac9; */
-    background-color: rgba(62, 207, 159, 0.815);
+    /* background-color: rgba(62, 207, 159, 0.815); */
+    /* background-color: rgb(157, 114, 170); */
 }
 
+.background-hamburger{
+    background-color: rgb(114, 170, 128);
+}
+
+.background-pizza{
+    background-color: rgb(157, 114, 170);
+}
+
+.background-cheesecake{
+    background-color: rgb(230, 136, 132);
+}
 /* nav bar style */
 .nav-hamburger{
     display: flex;
