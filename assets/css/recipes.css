@@ -7,7 +7,7 @@ body#hamburger{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #009914ce;
+    background-color: #009914b6;
 }
 
 /* nav bar style */
