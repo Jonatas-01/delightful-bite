@@ -163,10 +163,11 @@ footer > span{
    .recipes-section{
       display: flex;
       flex-direction: row;
+      justify-content: center;
    }
 
    .main-recipes-div{
-      width: 33%;
+      width: 28vw;
       margin: 15px;
    }
 
