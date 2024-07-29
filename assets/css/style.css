@@ -23,6 +23,11 @@ nav{
     justify-content: space-around;
     border-bottom: 3px solid black;
     background-color: #FFC100;
+
+    /* Tried to add a fixed nav bar but it disapear when go to recipe page */
+    /* position: fixed;
+    width: 100%; */
+    
 }
 
 nav > a{
@@ -195,8 +200,6 @@ body#body-recipes{
    display: flex;
    flex-direction: column;
    justify-content: center;
-   /* background-color: rgba(62, 207, 159, 0.815); */
-   /* background-color: rgb(157, 114, 170); */
 }
 
 .background-hamburger{
@@ -209,21 +212,6 @@ body#body-recipes{
 
 .background-cheesecake{
    background-color: rgb(230, 136, 132);
-}
-/* nav bar style */
-.nav-hamburger{
-   display: flex;
-   justify-content: space-around;
-   border-bottom: 3px solid black;
-   background-color: #FFC100;
-}
-
-.nav-hamburger > a{
-   text-decoration: none;
-   padding: 8px;
-   font-size: 22px;
-   color: black;
-   
 }
 
 /* main block that contains the recipe details */
@@ -311,21 +299,6 @@ body#body-sign{
    font-family: "Exo 2", sans-serif;
    margin: 0px;
    background-color: whitesmoke;
-}
-
-/* Nav style */
-nav.sign-up-nav{
-   display: flex;
-   justify-content: space-around;
-   background-color: #FFC100;
-   border-bottom: 3px solid black;
-}
-
-nav.sign-up-nav > a{
-   text-decoration: none;
-   padding: 8px;
-   font-size: 22px;
-   color: black;
 }
 
 .div-left{
