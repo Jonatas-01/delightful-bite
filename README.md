@@ -6,4 +6,9 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ![Responsible screenshot](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/img/responsible-screen.png)
 
-##Features
+## Features
+
+- __Navigation Bar__
+
+    -
+    -
