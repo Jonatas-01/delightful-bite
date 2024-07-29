@@ -23,4 +23,22 @@ The user will be able to see our brief description of the recipe on the homepage
 
     ![Header](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/header.png)
 
+- __Recipes Section__
 
+    -
+    -
+
+- __Contact Us__
+
+    -
+    -
+
+- __Sign Up__
+
+    -
+    -
+    
+- __Recipes Pages__
+
+    -
+    -
