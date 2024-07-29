@@ -4,4 +4,6 @@ The Delightful Bite is a website page for anyone who wants to learn new recipes 
 
 The user will be able to see our brief description of the recipe on the homepage, so the user can choose which one they want to do before they click on the recipe and get moved to another page. The Delightful Bite website targets everyone who dares to try new flavors.
 
-![Responsible screenshot(assets/media/img/responsible-screen.jpg)]
+![Responsible screenshot(https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/img/responsible-screen.png)]
+
+##Features
