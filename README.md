@@ -10,7 +10,10 @@ The user will be able to see our brief description of the recipe on the homepage
 
 - __Navigation Bar__
 
-    -
-    -
+    - Featured at the top of the page, the navigation bar shows Recipe that links to recipe section, Contact Us that link to the contact us and Sign Up which a open a new page with sign up form.
+    - The navigation provide the user an easy and kick access to the section in the page.
+    - The navigation background color is orange, to highlight in the page.
 
 ![Nav Bar](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/navbar.png)
+
+- __The Header__
