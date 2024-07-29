@@ -12,3 +12,5 @@ The user will be able to see our brief description of the recipe on the homepage
 
     -
     -
+
+![Nav Bar]()
