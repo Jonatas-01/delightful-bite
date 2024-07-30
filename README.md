@@ -73,5 +73,6 @@ The user will be able to see our brief description of the recipe on the homepage
     - CSS
      - No errors were returned when passing through the official (Jigsaw) validator
     -Accessibility
-    
+
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
 
