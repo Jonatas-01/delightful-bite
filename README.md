@@ -91,9 +91,9 @@ The live link can be found here - https://jonatas-01.github.io/delightful-bite/i
 
 - Recipes taken from ChatGPT
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Idea for Recipes pages taken from https://www.frontendmentor.io/challenges
+- Idea for Recipes pages taken from [Front End Mentor](https://www.frontendmentor.io/challenges)
 
 ### Media
 
-- Svg's used on recipes taken from https://storyset.com/
-- Logo Photo on home page taken from https://www.freepik.com/
+- Svg's used on recipes taken from [Storyset](https://storyset.com/)
+- Logo Photo on home page taken from [FreePik](https://www.freepik.com/)
