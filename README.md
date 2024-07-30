@@ -78,8 +78,6 @@ When open the website in mobile devices, the button to submit the form in Sign U
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
@@ -87,3 +85,15 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - https://jonatas-01.github.io/delightful-bite/index.html
 
+## Credits
+
+### Content
+
+- Recipes taken from ChatGPT
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Idea for Recipes pages taken from https://www.frontendmentor.io/challenges
+
+### Media
+
+- Svg's used on recipes taken from https://storyset.com/
+- Logo Photo on home page taken from https://www.freepik.com/
