@@ -76,3 +76,14 @@ When open the website in mobile devices, the button to submit the form in Sign U
 
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
 
+## Deployment
+
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://jonatas-01.github.io/delightful-bite/index.html
+
