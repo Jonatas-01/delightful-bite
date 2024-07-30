@@ -30,6 +30,14 @@ The user will be able to see our brief description of the recipe on the homepage
 
     ![Recipes Section](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-section.png)
 
+- __Recipes Pages__
+
+    - The Recipe pages can be accessed clicking on anchor bellow the image in the home page. The anchor has the name of the recipe.
+    - The Recipe page provides an navbar on top with Home, Recipes and Contact Us anchor, image from the recipe, and the instructions to make the recipe.
+    - The instructions contains a title, description of the recipe, preparation time, ingredients, instructions, serving and the nutricional value.
+
+    ![Recipes Pages](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-page.png)
+
 - __Contact Us__
 
     - The feature is at the bottom of the page, The Contact Us shows the client how they can find us.
@@ -41,10 +49,8 @@ The user will be able to see our brief description of the recipe on the homepage
 
 - __Sign Up__
 
-    -
-    -
-    
-- __Recipes Pages__
+    - The sign up page can be accessed clicking on Sign Up "anchor" in navbar.
+    - Sign Up provides an form with validation that contains an username, email password and an sign up button to submit the form.
+    - Page contains a navbar on top, title, image and a form. The page has a whitesmoked background color.
 
-    -
-    -
+    ![Sign Up](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-up.png)
