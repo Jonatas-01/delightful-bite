@@ -25,13 +25,19 @@ The user will be able to see our brief description of the recipe on the homepage
 
 - __Recipes Section__
 
-    -
-    -
+    - Recipes section has 3 recipes, hamburger, cheesecake and homemade pizza. 
+    - Each recipe has an svg corresponding for the dish, an anchor which when clicked open another page with more details of the recipe, and an brief description.
+
+    ![Recipes Section](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-section.png)
 
 - __Contact Us__
 
-    -
-    -
+    - The feature is at the bottom of the page, The Contact Us shows the client how they can find us.
+    - Contact Us has a big title inside a box, also has a green background. 
+    - Contact Us provides an email bellow an evenlope icon, and 3 icons which is Facebook, Twitter and Instagram.
+    - The 3 icon down bellow when clicked opens a Delightful Bite social media.
+
+    ![Contact Us](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/contact-us.png)
 
 - __Sign Up__
 
