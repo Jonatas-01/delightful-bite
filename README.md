@@ -34,7 +34,7 @@ The user will be able to see our brief description of the recipe on the homepage
 
     - The Recipe pages can be accessed clicking on anchor bellow the image in the home page. The anchor has the name of the recipe.
     - The Recipe page provides an navbar on top with Home, Recipes and Contact Us anchor, image from the recipe, and the instructions to make the recipe.
-    - The instructions contains a title, description of the recipe, preparation time, ingredients, instructions, serving and the nutricional value.
+    - The instructions contains a background color matching the image color, title, description of the recipe, preparation time, ingredients, instructions, serving and the nutricional value.
 
     ![Recipes Pages](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-page.png)
 
