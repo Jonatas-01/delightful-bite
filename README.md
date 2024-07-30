@@ -54,3 +54,24 @@ The user will be able to see our brief description of the recipe on the homepage
     - Page contains a navbar on top, title, image and a form. The page has a whitesmoked background color.
 
     ![Sign Up](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-up.png)
+
+## Testing
+
+    - I tested that this page works in different browsers: Chrome, Firefox, Edge, Mobile Safari.
+    - I confirmed that this project is responsive, looks good and functions on all screen sizes.
+    - I confirmed that the navigation, header, recipes section and pages, contact us and sign up text are all readable and easy to understand.
+    - I have confirmed that the form works: requires entries in every field, will only accept email in the email field, and submit button works.
+
+### Unfixed Bugs
+
+    When open the website in mobile devices, the button to submit the form in Sign Up page has the text hidden, still submiting the form, but does not have any text inside the button. When open the page in desktop and using the devtools to see the mobile screen size, the text in the button is there.
+
+### Validator Testing
+
+    - HTML
+     - No errors were returned when passing through the official W3C validator
+    - CSS
+     - No errors were returned when passing through the official (Jigsaw) validator
+    -Accessibility
+    
+
