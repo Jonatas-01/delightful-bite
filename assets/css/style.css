@@ -293,7 +293,6 @@ table{
 }
 
 
-
 /* Sign Up Style */
 
 body#body-sign{
@@ -362,6 +361,11 @@ form{
    font-size: 20px;
    margin-bottom: 10px;
 }
+
+.textfield > ::placeholder{
+   font-family: "Exo 2", sans-serif;
+}
+
 /* font family is bugged, when open the website in safari in mobile the text in button is hidden */
 button{
    width: 70%;
@@ -376,11 +380,6 @@ button{
    cursor: pointer;
    box-shadow: 0px 2px 7px  black;
    margin: 12px;
-}
-
-/* Tablet Screen will be the same as mobile */
-@media screen and (min-width: 768px){
-
 }
 
 /* Laptop Screen */
@@ -415,9 +414,4 @@ button{
        width: 66%;
        display: flex;
    }
-}
-
-/* Desktop Screen */
-@media screen and (min-width: 1200px){
-   
 }
