@@ -23,7 +23,7 @@
     <!-- Div left with the title and the img -->
     <div class="main-div">
         <div class="div-left">
-            <h1>Register to get access to more recipes!</h1>
+            <h1>Sign Up to receive more recipes!</h1>
             <img src="assets/media/svg/sign-up-img.svg" alt="sign-up-img">
         </div>
         
@@ -35,20 +35,32 @@
                 <!-- Form -->
                 <div class="form-div">
                     <!-- action with where the data going to be send -->
-                    <form action="https://formdump.codeinstitute.net">
+                    <form id="sing-up-form" target="_blank" action="https://formdump.codeinstitute.net">
                         <div class="textfield">
-                        <label for="username">Username:</label>
-                        <input id="username" name="username" type="text" placeholder="Username" required>
+                            <label for="username">Username:</label>
+                            <input id="username" name="username" type="text" placeholder="Username" required>
                         </div>
 
                         <div class="textfield">
-                        <label for="email">Email:</label>
-                        <input id="email" name="email" type="email" placeholder="Email" required>
+                            <label for="email">Email:</label>
+                            <input id="email" name="email" type="email" placeholder="Email" required>
                         </div>
 
                         <div class="textfield">
-                        <label for="password">Password:</label>
-                        <input id="password" name="password" type="password" placeholder="Password" required>
+                            <label for="password">Password:</label>
+                            <input id="password" name="password" type="password" placeholder="Password" required>
+                        </div>
+
+                        <p>How often would you like to receive recipes from us</p>
+                        <div class="radio">
+                            <input id="once-week" type="radio" name="receive-recipes" value="once-week" checked>
+                            <label for="once-week">Once a week</label>
+
+                            <input id="one-two-weeks" type="radio" name="receive-recipes" value="one-two-weeks">
+                            <label for="one-two-weeks">One every two weeks</label>
+
+                            <input id="one-month" type="radio" name="receive-recipes" value="one-month">
+                            <label for="one-month">One every month</label>
                         </div>
 
                         <button type="submit">Sign Up</button>
