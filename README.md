@@ -74,8 +74,10 @@ When open the website in mobile devices, the button to submit the form in Sign U
 
 - HTML
     - No errors were returned when passing through the official W3C validator
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-html.png)
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
+    ![W3C CSS](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-css.png)
 - Accessibility
     - At first the score in performance and accessibility were low.
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
