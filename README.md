@@ -77,8 +77,10 @@ When open the website in mobile devices, the button to submit the form in Sign U
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
 - Accessibility
-
+    - At first the score in performance and accessibility were low.
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
+    - The accessability score were fixed adding arial label to icons and fixing the order of the 'H' element. But the LCP (Largest Contentful Paint element) were making the performance score low.
+    ![Accessibility]()
 
 ## Deployment
 
