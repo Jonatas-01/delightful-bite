@@ -79,6 +79,8 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ![Mobile Wireframe part2](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-mobilepart2.png)
 
+> The design flow in the website is meant to be minimalist with a cartoon. Made to be easier to undesrtand and accessible for all ages.
+> The color patern is mainly white, green and orange, made to match with the first image (that with website name).
 
 ## Testing
 
@@ -125,6 +127,7 @@ The live link can be found here - https://jonatas-01.github.io/delightful-bite/i
 - Recipes taken from ChatGPT
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Idea for Recipes pages taken from [Front End Mentor](https://www.frontendmentor.io/challenges)
+- Favicon taken from [Flaticon](https://www.flaticon.com/free-icon/strawberry_15674863?term=bite&page=1&position=11&origin=search&related_id=15674863)
 
 ### Media
 
