@@ -59,12 +59,20 @@ The user will be able to see our brief description of the recipe on the homepage
 
     ![Sign Up](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-up.png)
 
+- __Sign Up Confirmation Page__
+
+    - The sign up confirmation page can be accessed after submit correctly the form in sign up page.
+    - The sign confirmation page is made for user have sure the sign was made correctly.
+    - The page provides and navbar on top, a big text saying thanking for the sign up, a section showing the recipes in the page and a contact us section.
+
+    ![Sign Up Confirmation](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-confirmation.png)
+
 ## Testing
 
- - I tested that this page works in different browsers: Chrome, Firefox, Edge, Mobile Safari.
- - I confirmed that this project is responsive, looks good and functions on all screen sizes.
- - I confirmed that the navigation, header, recipes section and pages, contact us and sign up text are all readable and easy to understand.
- - I have confirmed that the form works: requires entries in every field, will only accept email in the email field, and submit button works.
+ - Tested that this page works in different browsers: Chrome, Firefox, Edge, Mobile Safari.
+ - Confirmed that this project is responsive, looks good and functions on all screen sizes.
+ - Confirmed that the navigation, header, recipes section and pages, contact us and sign up text are all readable and easy to understand.
+ - Confirmed that the form works: requires entries in every field, will only accept email in the email field, and submit button works.
 
 ### Unfixed Bugs
 
