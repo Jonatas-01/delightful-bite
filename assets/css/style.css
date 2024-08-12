@@ -426,3 +426,32 @@ button{
        display: flex;
    }
 }
+
+/* Complete Sign page */
+
+/* body */
+body#sign-complete{
+   font-family: "Exo 2", sans-serif;
+   margin: 0px;
+   background-color: whitesmoke;
+}
+
+/* header section */
+.thank-section{
+   background-color: rgb(1, 151, 1);
+   padding: 1px;
+   margin-top: 30px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 40px;
+   text-align: center;
+}
+
+.thank-section > h1{
+   color: whitesmoke;
+}
+
+.h2-thank{
+   text-align: center;
+   font-size: 28px;
+}
