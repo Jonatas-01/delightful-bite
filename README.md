@@ -121,6 +121,13 @@ When open the website in mobile devices, the button to submit the form in Sign U
 The live link can be found here - https://jonatas-01.github.io/delightful-bite/index.html
 
 ## Credits
+ > favicon: (https://www.flaticon.com/free-icon/strawberry_15674863?term=bite&page=1&position=11&origin=search&related_id=15674863)
+ > hamburger image: (https://storyset.com/illustration/hamburger/bro)
+ > pizza image: (https://storyset.com/illustration/pizza-sharing/bro)
+ > cake image: (https://storyset.com/illustration/red-velvet-cake/bro)
+ > home page image: (https://www.freepik.com/free-vector/abstract-hand-drawn-recipes-youtube-channel-art_13109020.htm#fromView=search&page=2&position=39&uuid=b029be65-745b-4eb7-a2e1-8485b8b3897d)
+ > sing up image: (https://storyset.com/illustration/computer-login/amico)
+ > icons: (https://fontawesome.com/)
 
 ### Content
 
