@@ -80,6 +80,7 @@ The user will be able to see our brief description of the recipe on the homepage
 ![Mobile Wireframe part2](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-mobilepart2.png)
 
 > The design flow in the website is meant to be minimalist with a cartoon. Made to be easier to undesrtand and accessible for all ages.
+
 > The color patern is mainly white, green and orange, made to match with the first image (that with website name).
 
 ## Testing
@@ -132,7 +133,7 @@ The live link can be found here - https://jonatas-01.github.io/delightful-bite/i
  > home page image: (https://www.freepik.com/free-vector/abstract-hand-drawn-recipes-youtube-channel-art_13109020.htm#fromView=search&page=2&position=39&uuid=b029be65-745b-4eb7-a2e1-8485b8b3897d)
 
  > sing up image: (https://storyset.com/illustration/computer-login/amico)
- 
+
  > icons: (https://fontawesome.com/)
 
 ### Content
