@@ -67,6 +67,19 @@ The user will be able to see our brief description of the recipe on the homepage
 
     ![Sign Up Confirmation](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-confirmation.png)
 
+## Skeleton Plane
+
+- __Home Page Desktop Wireframe__
+
+![Desktop Wireframe](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-desktop.png)
+
+- __Home Page Mobile Wireframe__
+
+![Mobile Wireframe part1](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-mobilepart1.png)
+
+![Mobile Wireframe part2](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-mobilepart2.png)
+
+
 ## Testing
 
  - Tested that this page works in different browsers: Chrome, Firefox, Edge, Mobile Safari.
