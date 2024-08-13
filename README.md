@@ -112,8 +112,23 @@ When open the website in mobile devices, the button to submit the form in Sign U
     - No errors were returned when passing through the official (Jigsaw) validator
     ![W3C CSS](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-css.png)
 - Accessibility
-    -Lighthouse test
+    - Lighthouse test index.html
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/third-accessibility.png)
+
+    - Lighthouse test sign-Up.html
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/lighthouse-sign.png)
+
+    - Lighthouse test sign-up-complete.html
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/lighthouse-sign-complete.png)
+
+    - Lighthouse test piza-html
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/lighthouse-pizza.png)
+
+    - Lighthouse test hamburger.html
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/lighthouse-hamburger.png)
+
+    - Lighthouse test cheesecake.html
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/lighthouse-cheesecake.png)
 
 ## Deployment
 
