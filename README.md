@@ -92,7 +92,14 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ### Bugs
 
-- __Unfixes Bugs__
+- __Fixed Bugs__
+
+- At first the score in performance and accessibility were low.
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
+    - The accessability score were fixed adding arial label to icons and fixing the order of the 'H' element. But the LCP (Largest Contentful Paint element) were making the performance score low.
+    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/second-accessibility.png)
+
+- __Unfixed Bugs__
 
 When open the website in mobile devices, the button to submit the form in Sign Up page has the text hidden, still submiting the form, but does not have any text inside the button. When open the page in desktop and using the devtools to see the mobile screen size, the text in the button is there.
 
@@ -105,11 +112,7 @@ When open the website in mobile devices, the button to submit the form in Sign U
     - No errors were returned when passing through the official (Jigsaw) validator
     ![W3C CSS](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-css.png)
 - Accessibility
-    - At first the score in performance and accessibility were low.
-    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
-    - The accessability score were fixed adding arial label to icons and fixing the order of the 'H' element. But the LCP (Largest Contentful Paint element) were making the performance score low.
-    ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/second-accessibility.png)
-    - The problem was in size of the first image in the main page. It was fixed by adding a high priority loading to the image and compressing the size of the image.
+    -Lighthouse test
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/third-accessibility.png)
 
 ## Deployment
@@ -118,6 +121,8 @@ When open the website in mobile devices, the button to submit the form in Sign U
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+  > I then received a notification from GitHub that my project is being deployed and after about 1 minute & a couple of refreshes of the page it was ready and live.
 
 The live link can be found here - https://jonatas-01.github.io/delightful-bite/index.html
 
@@ -142,8 +147,15 @@ The live link can be found here - https://jonatas-01.github.io/delightful-bite/i
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Idea for Recipes pages taken from [Front End Mentor](https://www.frontendmentor.io/challenges)
 - Favicon taken from [Flaticon](https://www.flaticon.com/free-icon/strawberry_15674863?term=bite&page=1&position=11&origin=search&related_id=15674863)
+- General lookup for HTML and CSS taken from [w3 school](https://www.w3schools.com/)
 
 ### Media
 
 - Svg's used on recipes taken from [Storyset](https://storyset.com/)
 - Logo Photo on home page taken from [FreePik](https://www.freepik.com/)
+
+## Acknowledgements
+
+- __Alan Bushell__
+
+> My mentor who provided me with constructive feedback and positive reinforcement where applicable.
