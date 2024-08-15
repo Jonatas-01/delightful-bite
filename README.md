@@ -108,7 +108,19 @@ When open the website in mobile devices, the button to submit the form in Sign U
 
 - HTML
     - No errors were returned when passing through the official W3C validator
+    - Index.html
     ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-html.png)
+    - sign-up.html
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-signup.png)
+    - sign-up-complete.html
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-signcomplete.png)
+    - cheesecake.html
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-cheesecake.png)
+    - hamburger.html
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-hamburger.png)
+    - pizza.html
+    ![W3C Html](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-pizza.png)
+    
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
     ![W3C CSS](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/w3c-css.png)
