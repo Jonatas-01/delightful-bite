@@ -23,11 +23,6 @@ nav{
     justify-content: space-around;
     border-bottom: 3px solid black;
     background-color: #FFC100;
-
-    /* Tried to add a fixed nav bar but it disapear when go to recipe page */
-    /* position: fixed;
-    width: 100%; */
-    
 }
 
 nav > a{
