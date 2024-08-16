@@ -11,76 +11,76 @@ The user will be able to see our brief description of the recipe on the homepage
 ### User
 > As a user I want to be able to find recipes easily without much clicks.   
 > As a user I want to be able to find easy recipes to make.     
-> As a user I want to be able to see the nutricional value of the recipe.   
+> As a user I want to be able to see the nutritional value of the recipe.   
 > As a user I want to be able to have a detailed guide of the recipe.   
 > As a user I want to be able to get notified when a new recipe is online.  
 
 ### Business Owner
 >As the site owner I want to provide detailed guide of recipes to users.    
->As the site owner I want to provide to user new recipes every week with new diferent flavor.   
->As the site owner I want to allow the user to choose which recipe is better to do based on brief   description of the recipe.  
+>As the site owner I want to provide to user new recipes every week with new different flavors.   
+>As the site owner I want to allow the user to choose which recipe is better to make based on a brief   description of the recipe.  
 >As the site owner I want to bring back the tradition of recipe pass from generations.  
->As the site owner I want to show the user the nutricional value of the meal.   
+>As the site owner I want to show the user the nutritional value of the meal.   
 >As the site owner I want to make user taste recipes from other cultures without leaving home.  
 
 ## Features
 
 - __Navigation Bar__
 
-    - Featured at the top of the page, the navigation bar shows Recipe that links to recipe section, Contact Us that link to the contact us and Sign Up which a open a new page with sign up form.
-    - The navigation provide the user an easy and kick access to the section in the page.
-    - The navigation background color is orange, to highlight in the page.
+    - Featured at the top of the page, the navigation bar shows a Recipe that links to the recipe section, Contact Us that links to the Contact Us and Sign Up which opens a new page with a sign-up form.
+    - The navigation provides the user with easy and kick access to the section on the page.
+    - The navigation background color is orange, to highlight the page.
     
     ![Nav Bar](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/navbar.png)
 
 - __The Header__
 
     - The header has an image and a about us.
-    - The image shows the name of the website in green sourounded by food images. The About Us tells the porpose of the website.
+    - The image shows the name of the website in green surrounded by food images. The About Us tells the purpose of the website.
 
     ![Header](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/header.png)
 
 - __Recipes Section__
 
-    - Recipes section has 3 recipes, hamburger, cheesecake and homemade pizza. 
-    - Each recipe has an svg corresponding for the dish, an anchor which when clicked open another page with more details of the recipe, and an brief description.
-    - The brief description shows the user if that dish is good choice, before being taken to another page.
+    - The recipes section has 3 recipes, hamburger, cheesecake. and homemade pizza. 
+    - Each recipe has an svg corresponding to the dish, an anchor that when clicked opens another page with more details of the recipe, and a brief description.
+    - The brief description shows the user if that dish is a good choice, before being taken to another page.
 
     ![Recipes Section](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-section.png)
 
 - __Recipes Pages__
 
-    - The Recipe pages can be accessed clicking on anchor bellow the image in the home page. The anchor has the name of the recipe.
-    - The Recipe page provides an navbar on top with Home, Recipes and Contact Us anchor, image from the recipe, and the instructions to make the recipe.
-    - The instructions contains a background color matching the image color, title, description of the recipe, preparation time, ingredients, instructions, serving and the nutricional value.
-    - The Recipe page provides to the user the recipe with more details and deep guidance.
+    - The Recipe pages can be accessed by clicking on the anchor below the image on the home page. The anchor has the name of the recipe.
+    - The Recipe page provides a navbar on top with Home, Recipes and Contact Us anchor,an image from the recipe, and the instructions to make the recipe.
+    - The instructions contain a background color matching the image color, title, description of the recipe, preparation time, ingredients, instructions, serving, and nutritional value.
+    - The Recipe page provides to the user recipes with more details and deep guidance.
 
     ![Recipes Pages](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/recipe-page.png)
 
 - __Contact Us__
 
     - The feature is at the bottom of the page, The Contact Us shows the user how they can find us.
-    - Contact Us has a big title inside a box, also has a green background. 
-    - Contact Us provides an email bellow an evenlope icon, and 3 icons which is Facebook, Twitter and Instagram. The 3 icon down bellow when clicked opens a Delightful Bite social media.
-    - Contact Us encourages users to get in contact if any help in needed while making the plate or scrolling the website.
+    - Contact Us has a big title inside a box, and also has a green background. 
+    - Contact Us provides an email below an envelope icon and 3 icons which are Facebook, Twitter, and Instagram. The 3 icons down below when clicked open a Delightful Bite social media.
+    - Contact Us encourages users to get in contact if any help is needed while making the plate or scrolling the website.
 
 
     ![Contact Us](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/contact-us.png)
 
 - __Sign Up__
 
-    - The sign up page can be accessed clicking on Sign Up "anchor" in navbar.
-    - Sign Up provides an form with validation that contains a title, name, email, radio button and a sign up button to submit the form.
-    - Page contains a navbar on top, title, image and a form. The page has a whitesmoked background color.
+    - The sign-up page can be accessed by clicking on the Sign Up "anchor" in the navbar.
+    - Sign Up provides a form with validation that contains a title, name, email, radio button, and a sign-up button to submit the form.
+    - The page contains a navbar on top, a title, an image, and a form. The page has a whitesmoked background color.
     - The Sign Up page encourages users to sign up and get access to more recipes.
 
     ![Sign Up](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-up.png)
 
 - __Sign Up Confirmation Page__
 
-    - The sign up confirmation page can be accessed after submit correctly the form in sign up page.
-    - The sign confirmation page is made for user have sure the sign was made correctly.
-    - The page provides and navbar on top, a big text saying thanking for the sign up, a section showing the recipes in the page and a contact us section.
+    - The sign-up confirmation page can be accessed after submitting correctly the form on sign-up page.
+    - The sign confirmation page is made for users to make have sure the sign was made correctly.
+    - The page provides and navbar on top, a big text thanking for the sign-up, a section showing the recipes on the page and, a contact us section.
 
     ![Sign Up Confirmation](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/sign-confirmation.png)
 
@@ -96,9 +96,9 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ![Mobile Wireframe part2](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/homepage-mobilepart2.png)
 
-> The design flow in the website is meant to be minimalist with a cartoon. Made to be easier to undesrtand and accessible for all ages.
+> The design flow of the website is meant to be minimalist with a cartoon. Made to be easier to understand and accessible for all ages.
 
-> The color patern is mainly white, green and orange, made to match with the first image (that with website name).
+> The color pattern is mainly white, green, and orange, made to match the first image (that with the website name).
 
 ## Testing
 
@@ -125,20 +125,20 @@ The user will be able to see our brief description of the recipe on the homepage
 
 - At first the score in performance and accessibility were low.
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/accessibility.png)
-    - The accessability score were fixed adding arial label to icons and fixing the order of the 'H' element. But the LCP (Largest Contentful Paint element) were making the performance score low.
+    - The accessibility score was fixed by adding an arial label to icons and fixing the order of the 'H' element. However, the LCP (Largest Contentful Paint element) was making the performance score low.
     ![Accessibility](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/second-accessibility.png)
     - This bug was fixed adding load priority to the image and compressing the image.
 
 - __Unfixed Bugs__
 
-When the website is open in an Iphone mobile, the button to submit the form in Sign Up page does not show up, still submiting the form, but does not have any text inside the button. 
+When the website is open on an iPhone mobile, the button to submit the form on the Sign Up page does not show up, still submitting the form, but does not have any text inside the button. 
 ![Iphone-Bug](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/bug-iphone.jpg)
 
-The bug does not happen when the page is opened in an androind phone:
+The bug does not happen when the page is opened in an android phone:
 
 ![Androind-Bug](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/bug-android.jpg)
     
-> Good to mention this is a picture with an old version of the website (with the password input) but the button text still showing even in current versions.
+> Good to mention this is a picture with an old version of the website (with the password input) but the button text still shows even in current versions.
 
 ### Validator Testing
 
