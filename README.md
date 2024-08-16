@@ -6,6 +6,21 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ![Responsible screenshot](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/responsible-screen.png)
 
+## User Stories
+
+### User
+> As a user I want to be able to find recipes easily without much clicks
+> As a user I want to be able to find easy recipes to make
+> As a user I want to be able to see the nutricional value of the recipe
+> As a user I want to be able to have a detailed guide for the recipe
+> As a user I want to be able to get notified when a new recipe is online
+
+### Business Owner
+>
+>
+>
+>
+
 ## Features
 
 - __Navigation Bar__
