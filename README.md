@@ -102,7 +102,7 @@ The user will be able to see our brief description of the recipe on the homepage
 
 - __Unfixed Bugs__
 
-When open the website in mobile devices, the button to submit the form in Sign Up page has the text hidden, still submiting the form, but does not have any text inside the button. When open the page in desktop and using the devtools to see the mobile screen size, the text in the button is there.
+When the website is open in an Iphone mobile, the button to submit the form in Sign Up page has the text hidden, still submiting the form, but does not have any text inside the button. When open the page in desktop and using the devtools to see the mobile screen size, the text in the button is there.
 
 ### Validator Testing
 
