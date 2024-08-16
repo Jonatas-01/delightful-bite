@@ -85,10 +85,15 @@ The user will be able to see our brief description of the recipe on the homepage
 
 ## Testing
 
- - Tested that this page works in different browsers: Chrome, Firefox, Edge, Mobile Safari.
- - Confirmed that this project is responsive, looks good and functions on all screen sizes.
- - Confirmed that the navigation, header, recipes section and pages, contact us and sign up text are all readable and easy to understand.
- - Confirmed that the form works: requires entries in every field, will only accept email in the email field, and submit button works.
+**Testing Links and Form**
+| Test | Outcome |
+|--|--|
+|All links on Navigation lead to their correct pages| Pass |
+|Contact button leads to contact section | Pass|
+|Footer social links all lead to their respective social media sites| Pass |
+|Sign Up form submits when all criteria is filled correctly| Pass |
+|User prevented from submitting form without correct element| Pass |
+|Form Validation presents when incorrect input type is entered | Pass|
 
 ### Bugs
 
