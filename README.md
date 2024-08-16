@@ -16,12 +16,12 @@ The user will be able to see our brief description of the recipe on the homepage
 > As a user I want to be able to get notified when a new recipe is online.  
 
 ### Business Owner
->As the site owner I want to provide detailed guide of recipes to users.
->As the site owner I want to provide to user new recipes every week with new diferent flavor.
->As the site owner I want to allow the user to choose which recipe is better to do based on brief description of the recipe.
->As the site owner I want to bring back the tradition of recipe pass from generations.
->As the site owner I want to show the user the nutricional value of the meal.
->As the site owner I want to make user taste recipes from other cultures without leaving home.
+>As the site owner I want to provide detailed guide of recipes to users.    
+>As the site owner I want to provide to user new recipes every week with new diferent flavor.   
+>As the site owner I want to allow the user to choose which recipe is better to do based on brief   description of the recipe.  
+>As the site owner I want to bring back the tradition of recipe pass from generations.  
+>As the site owner I want to show the user the nutricional value of the meal.   
+>As the site owner I want to make user taste recipes from other cultures without leaving home.  
 
 ## Features
 
