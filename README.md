@@ -103,9 +103,13 @@ The user will be able to see our brief description of the recipe on the homepage
 - __Unfixed Bugs__
 
 When the website is open in an Iphone mobile, the button to submit the form in Sign Up page does not show up, still submiting the form, but does not have any text inside the button. 
-    ![]
+![Iphone-Bug](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/bug-iphone.jpg)
 
-When open the page in desktop and using the devtools to see the mobile screen size, the text in the button is there.
+The bug does not happen when the page is opened in an androind phone:
+
+![Androind-Bug](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/bug-android.jpg)
+    
+> Good to mention this is a picture with an old version of the website (with the password input) but the bug still happening even in current versions.
 
 ### Validator Testing
 
