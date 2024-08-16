@@ -100,6 +100,8 @@ The user will be able to see our brief description of the recipe on the homepage
 |--|--|
 |Home page, about us, contact up, sign up, recipes page, sign up complete page displays correctly on mobile, tablet, laptop and desktop | Pass |
 
+> No Issues reported from 3 users
+
 ### Bugs
 
 - __Fixed Bugs__
