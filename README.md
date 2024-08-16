@@ -9,11 +9,11 @@ The user will be able to see our brief description of the recipe on the homepage
 ## User Stories
 
 ### User
-> As a user I want to be able to find recipes easily without much clicks.
-> As a user I want to be able to find easy recipes to make.
-> As a user I want to be able to see the nutricional value of the recipe.
-> As a user I want to be able to have a detailed guide of the recipe.
-> As a user I want to be able to get notified when a new recipe is online.
+> As a user I want to be able to find recipes easily without much clicks.   
+> As a user I want to be able to find easy recipes to make.     
+> As a user I want to be able to see the nutricional value of the recipe.   
+> As a user I want to be able to have a detailed guide of the recipe.   
+> As a user I want to be able to get notified when a new recipe is online.  
 
 ### Business Owner
 >As the site owner I want to provide detailed guide of recipes to users.
