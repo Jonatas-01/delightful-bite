@@ -95,6 +95,11 @@ The user will be able to see our brief description of the recipe on the homepage
 |User prevented from submitting form without correct element| Pass |
 |Form Validation presents when incorrect input type is entered | Pass|
 
+**Testing for responsiveness**
+| Test |Outcome  |
+|--|--|
+|Home page, about us, contact up, sign up, recipes page, sign up complete page displays correctly on mobile, tablet, laptop and desktop | Pass |
+
 ### Bugs
 
 - __Fixed Bugs__
