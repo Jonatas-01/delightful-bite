@@ -53,7 +53,7 @@ The user will be able to see our brief description of the recipe on the homepage
 - __Sign Up__
 
     - The sign up page can be accessed clicking on Sign Up "anchor" in navbar.
-    - Sign Up provides an form with validation that contains an username, email password and an sign up button to submit the form.
+    - Sign Up provides an form with validation that contains a title, name, email, radio button and a sign up button to submit the form.
     - Page contains a navbar on top, title, image and a form. The page has a whitesmoked background color.
     - The Sign Up page encourages users to sign up and get access to more recipes.
 
@@ -109,7 +109,7 @@ The bug does not happen when the page is opened in an androind phone:
 
 ![Androind-Bug](https://github.com/Jonatas-01/delightful-bite/blob/main/assets/media/readme-img/bug-android.jpg)
     
-> Good to mention this is a picture with an old version of the website (with the password input) but the bug still happening even in current versions.
+> Good to mention this is a picture with an old version of the website (with the password input) but the button text still showing even in current versions.
 
 ### Validator Testing
 
