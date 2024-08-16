@@ -370,6 +370,14 @@ form > p{
    margin: 5px;
 }
 
+.textfield > select{
+   border-radius: 5px;
+   width: 60%;
+   padding: 4px;
+   margin-bottom: 8px;
+   font-size: 16px;
+}
+
 .textfield > input{
    padding: 10px;
    border-radius: 8px;
